@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Send it</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_it">Send it!</string>
+    <string name="gcm_defaultSenderId">596579107829</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="message">message</string>
+    <string name="fb_app_id">841111702672504</string>
+    <string name="google_api_key">AIzaSyBmiExFxED5aohJ5_fpSSW7JUp71rBIFAE</string>
+
+</resources>
